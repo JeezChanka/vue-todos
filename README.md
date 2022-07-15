@@ -2,10 +2,10 @@
 
 This project is my first experience with Vue.js
 The aim is simple: 
-    * make a TODO list using Vue.js
-    * 3 bars - All, Doing, Done
-    * it must be persistent (the states must remain the same after refresh) 
-        * database required 
+* make a TODO list using Vue.js
+* 3 bars - All, Doing, Done
+* it must be persistent (the states must remain the same after refresh) 
+    * database required 
 
 ## Recommended IDE Setup
 
