@@ -1,6 +1,11 @@
 # vue-todos
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is my first experience with Vue.js
+The aim is simple: 
+    * make a TODO list using Vue.js
+    * 3 bars - All, Doing, Done
+    * it must be persistent (the states must remain the same after refresh) 
+        * database required 
 
 ## Recommended IDE Setup
 
