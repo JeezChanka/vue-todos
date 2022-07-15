@@ -7,10 +7,8 @@ The aim is simple:
 * it must be persistent (the states must remain the same after refresh) 
     * database required 
 
-You can find server here: 
-```
-https://github.com/JeezChanka/server_todo
-```
+You can find server here: https://github.com/JeezChanka/server_todo
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
